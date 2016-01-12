@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem "paperclip", "~> 4.3"
+gem 'simple_form'
+gem 'bootstrap-sass', '~> 3.3.6'
+#gem 'sass-rails', '>= 3.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
